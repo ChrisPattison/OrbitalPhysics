@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Space Explorers Project File\Assets\Entity.cs">
+    <Files>
+      <File FileName="OrbitalPhysics\OrbitalPhysics.cs" Line="17" Column="31" />
+      <File FileName="..\Space Explorers Project File\Assets\phyzix.cs" Line="18" Column="12" />
+      <File FileName="..\Space Explorers Project File\Assets\Entity.cs" Line="56" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+C:\Users\chris\Dropbox\videogames\Unity\OrbitalPhysics\OrbitalPhysics\bin\Release\OrbitalPhysics.dll
+C:\Users\chris\Dropbox\videogames\Unity\OrbitalPhysics\OrbitalPhysics\bin\Release\OrbitalPhysics.pdb
+C:\Users\chris\Dropbox\videogames\Unity\OrbitalPhysics\OrbitalPhysics\obj\Release\OrbitalPhysics.dll
+C:\Users\chris\Dropbox\videogames\Unity\OrbitalPhysics\OrbitalPhysics\obj\Release\OrbitalPhysics.pdb
+C:\Users\chris\Dropbox\videogames\Unity\OrbitalPhysics\OrbitalPhysics\obj\Release\OrbitalPhysics.csprojResolveAssemblyReference.cache

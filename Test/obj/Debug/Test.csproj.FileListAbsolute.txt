@@ -1,0 +1,8 @@
+C:\Users\chris\Dropbox\videogames\Unity\OrbitalPhysics\Test\bin\Debug\Test.exe.config
+C:\Users\chris\Dropbox\videogames\Unity\OrbitalPhysics\Test\bin\Debug\Test.exe
+C:\Users\chris\Dropbox\videogames\Unity\OrbitalPhysics\Test\bin\Debug\Test.pdb
+C:\Users\chris\Dropbox\videogames\Unity\OrbitalPhysics\Test\bin\Debug\OrbitalPhysics.dll
+C:\Users\chris\Dropbox\videogames\Unity\OrbitalPhysics\Test\bin\Debug\OrbitalPhysics.pdb
+C:\Users\chris\Dropbox\videogames\Unity\OrbitalPhysics\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\chris\Dropbox\videogames\Unity\OrbitalPhysics\Test\obj\Debug\Test.exe
+C:\Users\chris\Dropbox\videogames\Unity\OrbitalPhysics\Test\obj\Debug\Test.pdb
